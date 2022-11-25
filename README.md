@@ -1,0 +1,2 @@
+# TheCodingMurphies_KOC34_CipherSchools
+Random Story Generator
